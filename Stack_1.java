@@ -12,7 +12,7 @@ class Stack_1{
         st.push(2);
         st.push(3);
         st.pop();
-        st.push(55);
+        //st.push(55);
         System.out.println(st);
         System.out.println(st.peek());
     }
