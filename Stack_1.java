@@ -11,7 +11,7 @@ class Stack_1{
         Stack<Integer> st=new Stack(); 
         st.push(2);
         st.push(3);
-
+        st.pop();
         System.out.println(st);
         System.out.println(st.peek());
     }
