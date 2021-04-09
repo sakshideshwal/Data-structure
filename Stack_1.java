@@ -13,7 +13,6 @@ class Stack_1{
         st.push(3);
         st.pop();
         st.push(55);
-        st.pop();
         System.out.println(st);
         System.out.println(st.peek());
     }
